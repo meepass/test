@@ -1,6 +1,5 @@
-# test<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-<title>Website Template</title>
 <style>
 * {
 box-sizing: border-box;
@@ -15,7 +14,7 @@ padding: 0 4px;
 }
 .inner-grid {
 flex: 25%;
-max-width: %;
+max-width: 25%;
 padding: 0 4px;
 }
 .inner-grid img {
